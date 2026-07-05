@@ -1,0 +1,85 @@
+========================================
+Текущий рабочий каталог: /home/pazl/lab1_bash
+========================================
+Текущий запущенный процесс: 736
+========================================
+Домашний каталог: /home/pazl
+========================================
+Название и версия ОС: Ubuntu 24.04.3 LTS
+========================================
+Доступные оболочки в системе:
+# /etc/shells: valid login shells
+/bin/sh
+/usr/bin/sh
+/bin/bash
+/usr/bin/bash
+/bin/rbash
+/usr/bin/rbash
+/usr/bin/dash
+/usr/bin/tmux
+========================================
+Текущие пользователи в системе:
+pazl     pts/1        2026-03-19 12:15
+========================================
+Количество пользователей: 1
+========================================
+Информация о жестких дисках:
+NAME MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sda    8:0    0 388.6M  1 disk 
+sdb    8:16   0   186M  1 disk 
+sdc    8:32   0     2G  0 disk [SWAP]
+sdd    8:48   0     1T  0 disk /mnt/wslg/distro
+                               /
+========================================
+Информация о процессоре:
+model name	: Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz
+========================================
+Информация о памяти:
+               total        used        free      shared  buff/cache   available
+Mem:           7.7Gi       466Mi       7.2Gi       3.5Mi       183Mi       7.3Gi
+Swap:          2.0Gi          0B       2.0Gi
+========================================
+Информация о файловой системе:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         238G  199G   40G  84% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.9G   76K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  496K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             238G  199G   40G  84% /mnt/c
+D:\             932G   22G  911G   3% /mnt/d
+tmpfs           790M   20K  790M   1% /run/user/1000
+========================================
+Информация об установленных пакетах:
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                          Version                                 Architecture Description
++++-=============================-=======================================-============-================================================================================
+ii  adduser                       3.137ubuntu1                            all          add and remove users and groups
+ii  adwaita-icon-theme            46.0-1                                  all          default icon theme of GNOME
+ii  apparmor                      4.0.1really4.0.1-0ubuntu0.24.04.5       amd64        user-space parser utility for AppArmor
+ii  apport                        2.28.1-0ubuntu3.8                       all          automatically generate crash reports for debugging
+ii  apport-core-dump-handler      2.28.1-0ubuntu3.8                       all          Kernel core dump handler for Apport
+ii  apport-symptoms               0.25                                    all          symptom scripts for apport
+ii  appstream                     1.0.2-1build6                           amd64        Software component metadata management
+ii  apt                           2.8.3                                   amd64        commandline package manager
+ii  apt-utils                     2.8.3                                   amd64        package management related utility programs
+ii  at-spi2-common                2.52.0-1build1                          all          Assistive Technology Service Provider Interface (common files)
+ii  at-spi2-core                  2.52.0-1build1                          amd64        Assistive Technology Service Provider Interface (D-Bus core)
+ii  base-files                    13ubuntu10.3                            amd64        Debian base system miscellaneous files
+ii  base-passwd                   3.6.3build1                             amd64        Debian base system master password and group files
+ii  bash                          5.2.21-2ubuntu4                         amd64        GNU Bourne Again SHell
+ii  bash-completion               1:2.11-8                                all          programmable completion for the bash shell
+ii  bc                            1.07.1-3ubuntu4                         amd64        GNU bc arbitrary precision calculator language
+ii  binutils                      2.42-4ubuntu2.8                         amd64        GNU assembler, linker and binary utilities
+ii  binutils-common:amd64         2.42-4ubuntu2.8                         amd64        Common files for the GNU assembler, linker and binary utilities
+ii  binutils-x86-64-linux-gnu     2.42-4ubuntu2.8                         amd64        GNU binary utilities, for x86-64-linux-gnu target
+ii  bsdextrautils                 2.39.3-9ubuntu6.4                       amd64        extra utilities from 4.4BSD-Lite
